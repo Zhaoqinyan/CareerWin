@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CareerWin</string>
+    <string name="e_book">E-Book</string>
+    <string name="article">Article</string>
+    <string name="video">Video</string>
+    <string name="web_link">Web Link</string>
+    <string name="todo">TODO</string>
+    <string name="suggested_books">Suggested Books</string>
+    <string name="newly_published_books">Newly Published Books</string>
+    <string name="book_of_the_week">Book of The Week</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="career_education_videos">Career Education Videos</string>
+    <string name="https_youtube_com">https://youtube.com</string>
+    <string name="job_hunting_videos">Job Hunting Videos</string>
+    <string name="interview_skill_videos">Interview Skill Videos</string>
+    <string name="https_youku_com">https://youku.com/</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="string_articles_on_professional_development" />
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="articles_on_interview_tips">Articles on Interview Tips</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="articles_on_professional_development">Articles on Professional Development</string>
+    <string name="https_linkedin_com">https://Linkedin.com/</string>
+    <string name="https_indeed_com">https://Indeed.com/</string>
+    <string name="https_monster_com">https://Monster.com</string>
+    <string name="todo">TODO</string>
+</resources>
